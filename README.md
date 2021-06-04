@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CLtryhard
+- 👋 Hi, I’m Lance Chan
 - 👀 I’m interested in computer program.
 - 🌱 I’m currently learning C language.
 - 💞️ I’m looking to collaborate on ...
