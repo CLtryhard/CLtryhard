@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lance Chan, nice to see you!
 - 👀 I’m interested in computer programming.
 - 🌱 I’m currently learning English, Advanced Math and The C programming language.
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me by my gmail : cltryhard@gmail.com
 
 <!---
